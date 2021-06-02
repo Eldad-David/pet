@@ -1,17 +1,14 @@
 h1 {
-    color: brown;
-    font-family: monospace;
+    color: #a52a2a;
+    font-family: cursive;
     font-size: 40px;
-    text-align: center;
 }
 body {
     background-color: black;
-    color: blanchedalmond;
+    color: #ffebcd;
     font-family: sans-serif;
     font-size: 20px;
-
 }
 h2 {
-    color: tomato;
-    font-style: italic;
+    color: #8a2be2;
 }
