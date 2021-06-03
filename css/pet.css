@@ -16,9 +16,23 @@ h2 {
     color: #8a2be2;
 }
 img {
-    width: 500px;
+    width: 600px;
     height: auto;
 }
 ol {
     padding: 20px;
+    margin: 0px;
+}
+.character {
+    float: right;
+    margin: 30px;
+}
+.maintenance {
+    float: left;
+    padding-right: 60px;
+}
+.lie {
+    width: 600px;
+    height: 400px;
+    float: right;
 }
